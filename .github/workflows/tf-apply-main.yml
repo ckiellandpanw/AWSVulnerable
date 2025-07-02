@@ -59,7 +59,7 @@ jobs:
     - name: Terraform Init
       run: | 
         cd modules/${{ github.event.inputs.module }}
-        terraform init 
+        terraform init -reconfigure
         
     # Installs boto3
     - uses: actions/setup-python@v5
