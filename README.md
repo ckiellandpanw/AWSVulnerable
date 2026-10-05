@@ -1,3 +1,6 @@
+# Cred
+AWS_SECRET_ACCESS_KEY="wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY"
+
 # AWSGoat : A Damn Vulnerable AWS Infrastructure
 
 ![1](https://user-images.githubusercontent.com/65826354/179526664-cb123612-7f9a-41fe-bab2-eb6b3b2518d7.png)
